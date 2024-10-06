@@ -8,7 +8,7 @@ public class Problem_8 {
         m1= sc.nextInt();
         System.out.println("Enter your marks in chemistry:");
         m2= sc.nextInt();
-        System.out.println("Enter your marks in Maths:");
+        System.out.println("Enter your marks in Math");
         m3= sc.nextInt();
         float avg = (m1+m2+m3)/3f;
         System.out.println("your overall percentage " +avg);

@@ -14,7 +14,7 @@ public class Linear_Search {
                temp.add(arr[i]) ;
             }
         }
-
+        System.out.println("Hello world");
         System.out.println(temp);
     }
     public static int linearSearch(List<Integer> arr, int target){
